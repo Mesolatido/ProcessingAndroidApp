@@ -19,3 +19,10 @@ It should eventually include the following elements:
 ► A small calculator supporting symbolic substitutions
 
 ◄ A discussion forum or link to an existing discussion forum 
+
+##Process #1 Problem-Solution
+►►Generic guide to solving problems◄◄
+_This is the writing portion of the program, all the guides will be drafted here_
+###Step 1: What does it want?
+####Establish What The Problem Requires
+
